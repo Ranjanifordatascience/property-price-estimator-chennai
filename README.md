@@ -1,11 +1,8 @@
-🏡 Property Price Estimator for Chennai 🌆
-Looking to buy, sell, or invest in property in Chennai? This Machine Learning-based Property Price Estimator gives you quick, data-driven price predictions for residential properties, tailored to Chennai’s real estate market. 🚀
 
-🔑 Key Features
-Accurate Price Prediction: Predict property prices based on location, square footage, number of rooms, amenities, and more!
+# Property Price Estimator for Chennai
 
-Local Data, Local Insights: Trained on Chennai-specific property data to provide precise estimates.
+## What It Is
+This project is a **machine learning-based property price estimator** specifically designed for the Chennai real estate market. It predicts property prices based on features like location, size, number of rooms, and amenities.
 
-Easy-to-Use: Just input property details and get the price prediction instantly!
-
-Perfect for Real Estate Pros: Buyers, sellers, and agents can make smarter, faster decisions.
+## How It Solves the Problem
+Buying or selling property in Chennai can be challenging without reliable price estimates. This tool helps by providing quick, data-driven predictions, enabling real estate professionals, buyers, and sellers to make informed decisions based on current market trends.
